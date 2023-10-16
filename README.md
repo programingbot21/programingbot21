@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/programingbot21/programingbot21/assets/116254106/5e0cc103-7c68-4d7b-ac21-ff8e88a27e13)
+![MasterHead](https://github.com/programingbot21/programingbot21/assets/116254106/5e0cc103-7c68-4d7b-ac21-ff8e88a27e13)
 
 
 <h1 align="center">Hi 👋, I'm Rahul Rathore</h1>
